@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Background Colors -->
+    <color name="bg_screen">#FAFAFA</color>
+    <color name="bg_card">#FFFFFF</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_label">#555555</color>
+    <color name="text_hint">#888888</color>
+
+    <!-- Input Field Color (Soft Pink) -->
+    <color name="input_bg_pink">#FFCDD2</color>
+
+    <!-- Button Colors -->
+    <color name="btn_clear_bg">#F8BBD0</color>
+    <color name="btn_clear_text">#E53935</color>
+    <color name="btn_add_bg">#FF8A80</color>
+    <color name="btn_add_text">#FFFFFF</color>
+
+    <!-- Divider Color -->
+    <color name="divider_color">#DDDDDD</color>
+</resources>
